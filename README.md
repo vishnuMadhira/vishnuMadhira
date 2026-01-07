@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi,  I'm Vishnu  👋
+
+Backend engineer with experience in Java and Spring Boot.
+Currently building a JVM prototype in Python to understand bytecode,
+binary formats, and virtual machine internals from first principles.
+
+### Featured Project
+- **jvm-py** — Minimal JVM class file parser and interpreter prototype
+
 
 <!--
 **vishnuMadhira/vishnuMadhira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
